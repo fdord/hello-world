@@ -1,0 +1,9 @@
+1. git clone ...
+
+2. 添加了一些乱七八糟的东西。
+
+3. git status
+
+4. git add 想加入仓库的东西。
+
+5. git commit -m "说明"
