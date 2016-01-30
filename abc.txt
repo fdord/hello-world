@@ -7,3 +7,5 @@
 4. git add 想加入仓库的东西。
 
 5. git commit -m "说明"
+
+6. git push origin master -- 上传到远程仓库。
